@@ -1,0 +1,1 @@
+\copy peliculas FROM 'C:\Users\Usuario\Desktop\desafio_latam\intro_sql\desafio_top_100\peliculas.csv' csv header;

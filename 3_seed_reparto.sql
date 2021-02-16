@@ -1,0 +1,1 @@
+\copy reparto FROM 'C:\Users\Usuario\Desktop\desafio_latam\intro_sql\desafio_top_100\reparto.csv' csv header;
